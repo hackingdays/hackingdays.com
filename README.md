@@ -1,4 +1,4 @@
-A sample Telescope project. Install [Meteor](http://meteor.com), clone this repository locally and then run the app with:
+Hacking Days Community official website. Install [Meteor](http://meteor.com), clone this repository locally and then run the app with:
 
 ```
 meteor

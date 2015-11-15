@@ -1,9 +1,8 @@
 {
-  "name": "Telescope",
-  "description": "An open-source community app built with Meteor",
-  "repository": "https://github.com/TelescopeJS/sample-project/",
-  "logo": "http://www.telescopeapp.org/images/logo.png",
-  "keywords": ["meteor", "social", "community"],
+  "name": "hackingdays.com",
+  "description": "Hacking Days community based on telescopeapp",
+  "repository": "https://bitbucket.org/hackingdays/hackingdays.com",
+  "keywords": ["hackingdays", "social", "community"],
   "env": {
     "BUILDPACK_URL": "https://github.com/AdmitHub/meteor-buildpack-horse.git",
     "ROOT_URL": {
