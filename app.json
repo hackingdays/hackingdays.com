@@ -1,5 +1,6 @@
 {
   "name": "hackingdays.com",
+  "version": "0.0.1",
   "description": "Hacking Days community based on telescopeapp",
   "repository": "https://bitbucket.org/hackingdays/hackingdays.com",
   "keywords": ["hackingdays", "social", "community"],
