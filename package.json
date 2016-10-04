@@ -1,0 +1,11 @@
+{
+    "name": "hackingdays.com",
+    "version": "0.0.1",
+    "description": "Hacking Days community based on telescopeapp",
+    "author": "Gorillab",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hackingdays/hackingdays.com"
+    },
+    "keywords": ["hackingdays", "social", "community", "Gorillab"]
+}
