@@ -10,6 +10,7 @@
     "keywords": ["hackingdays", "social", "community", "Gorillab"],
     "scripts": {
         "build": "meteor build . hackingdays.com",
+        "clean": "rm hackingdays.com.tar.gz",
         "start": "meteor"
     }
 }
