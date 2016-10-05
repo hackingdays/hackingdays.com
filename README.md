@@ -8,6 +8,44 @@
 
 Hacking Days community - Everyday is a hacking day.
 
+### Installation
+
+Install meteor
+
+```
+curl https://install.meteor.com | /bin/sh
+```
+
+### Running
+
+#### Development
+
+Start app
+
+```
+npm start
+```
+
+#### Production
+
+Build app
+
+```
+npm build
+```
+
+Start app
+
+```
+tar -zxf hackingdays.com.tar.gz
+export BIND_IP=127.0.0.1
+export PORT=9000
+export MONGO_URL='mongodb://user:password@host:port/databasename'
+export ROOT_URL='http://example.com'
+export MAIL_URL='smtp://user:password@mailhost:port/'
+node bundle/main.js
+```
+
 ### References
 
 * [Roadmap](https://trello.com/b/MgcW7j2h/hackingdays-com)
