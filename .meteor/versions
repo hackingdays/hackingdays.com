@@ -110,6 +110,7 @@ ongoworks:speakingurl@6.0.0
 ordered-dict@1.0.4
 package-version-parser@3.0.4
 percolatestudio:synced-cron@1.1.0
+phatpham9:theme-hd@0.0.1
 promise@0.5.1
 raix:eventemitter@0.1.3
 random@1.0.5
@@ -155,7 +156,6 @@ telescope:subscribe-to-posts@0.25.5
 telescope:tagline-banner@0.25.5
 telescope:tags@0.25.5
 telescope:theme-base@0.25.5
-telescope:theme-hd@0.0.1
 telescope:users@0.25.7
 templating@1.1.5
 templating-tools@1.0.0
