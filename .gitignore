@@ -41,7 +41,9 @@ publish_packages.sh
 
 node_modules
 
+bundle
 bundle.tar.gz
+hackingdays.com.tar.gz
 
 jsdoc-conf.json
 jsdoc.json
