@@ -41,7 +41,6 @@ export BIND_IP=127.0.0.1
 export PORT=9000
 export MONGO_URL=mongodb://127.0.0.1/hackingdays
 export ROOT_URL=http://hackingdays.com
-export MAIL_URL=smtp://username:password@smtp.mailgun.org:587/
 node bundle/main.js
 ```
 
