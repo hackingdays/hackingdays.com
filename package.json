@@ -9,8 +9,8 @@
     },
     "keywords": ["hackingdays", "social", "community", "Gorillab"],
     "scripts": {
-        "build": "meteor build .",
         "clean": "rm hackingdays.com.tar.gz",
+        "build": "meteor build . && tar -zxf hackingdays.com.tar.gz && cd bundle/programs/server && npm install && cd ../../../",
         "start": "meteor"
     }
 }
