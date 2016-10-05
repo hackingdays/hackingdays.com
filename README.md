@@ -34,27 +34,14 @@ Build app
 npm run build
 ```
 
-Extract build bundle
-
-```
-tar -zxf hackingdays.com.tar.gz
-```
-
-Install dependencies
-
-```
-cd bundle/programs/server && npm install
-cd ../../
-```
-
 Set env variables & Start app
 
 ```
 export BIND_IP=127.0.0.1
 export PORT=9000
-export MONGO_URL='mongodb://user:password@host:port/databasename'
-export ROOT_URL='http://example.com'
-export MAIL_URL='smtp://user:password@mailhost:port/'
+export MONGO_URL=mongodb://127.0.0.1/hackingdays
+export ROOT_URL=http://hackingdays.com
+export MAIL_URL=smtp://username:password@smtp.mailgun.org:587/
 node bundle/main.js
 ```
 
