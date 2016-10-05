@@ -31,7 +31,7 @@ npm start
 Build app
 
 ```
-npm build
+npm run build
 ```
 
 Start app
