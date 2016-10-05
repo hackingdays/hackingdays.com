@@ -9,7 +9,7 @@
     },
     "keywords": ["hackingdays", "social", "community", "Gorillab"],
     "scripts": {
-        "build": "meteor build .",
+        "build": "meteor build . hackingdays.com",
         "start": "meteor"
     }
 }
